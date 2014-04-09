@@ -59,6 +59,7 @@ void main()
 		}
 
 		cout << sum << " " << diff << " " << absdiff << " " << multi << " " << share << " " << surplus << " " << max << " " << iden << endl;
+		cout << "clear !!! 20140409"
 
 	}
 	
